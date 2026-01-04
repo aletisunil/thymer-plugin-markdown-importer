@@ -1,0 +1,7 @@
+{
+	"ver": 1,
+	"name": "Markdown Importer",
+	"icon": "clipboard-text",
+	"description": "Smartly imports markdown from clipboard into Thymer notes, preserving formatting, lists, nesting, and spacing.",
+	"version": "0.0.1"
+}
