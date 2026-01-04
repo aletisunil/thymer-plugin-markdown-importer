@@ -4,7 +4,7 @@
  * Version: 0.0.1
  */
 
-export class Plugin extends AppPlugin {
+class Plugin extends AppPlugin {
 	onLoad() {
 		this.ui.addCommandPaletteCommand({
 			label: "Paste Markdown as Notes",
